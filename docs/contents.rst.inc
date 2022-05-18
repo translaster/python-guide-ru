@@ -121,14 +121,14 @@ background information about Python, and then focuses on next steps.
    intro/news
 
 .. note::
-   Notes defined within all diatonic and chromatic musical scales have been
-   intentionally excluded from this list of additional notes. Additionally,
-   this note.
-
+   Примечания, определенные во всех диатонических и хроматических музыкальных 
+   гаммах, были намеренно исключены из этого списка дополнительных примечаний. 
+   Кроме этого примечания.
+   
 
 --------------------------------------
 
-Contribution notes and legal information (for those interested).
+Примечания к вкладу и юридическая информация (для тех, кто заинтересован).
 
 .. toctree::
    :maxdepth: 2
