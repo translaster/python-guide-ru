@@ -2,14 +2,14 @@
 ---------------------------
 
 Новичок в Python? Давай правильно настроим вашу среду Python:
-  
+
 
 .. toctree::
    :maxdepth: 2
 
    starting/which-python
 
-- Properly Install Python on your system:
+- Правильно установите Python в свою систему:
 
  .. toctree::
     :maxdepth: 1
@@ -22,8 +22,7 @@
     starting/install/win
     starting/install/linux
 
-
-- Using Virtualenvs with Pipenv:
+- Использование Virtualenv с Pipenv:
 
  .. toctree::
     :maxdepth: 2
@@ -31,7 +30,7 @@
     dev/virtualenvs
 
 Среды разработки на Python
--------------------------------
+--------------------------
 
 This part of the guide focuses on the Python development environment,
 and the best-practice tools that are available for writing Python code.
@@ -46,7 +45,7 @@ and the best-practice tools that are available for writing Python code.
 
 
 Написание отличного кода на Python
--------------------------
+----------------------------------
 
 This part of the guide focuses on the best-practices for writing Python code.
 
@@ -64,7 +63,7 @@ This part of the guide focuses on the best-practices for writing Python code.
 
 
 Руководство по сценариям для приложений на Python
---------------------------------------
+-------------------------------------------------
 
 This part of the guide focuses on tool and module advice based on
 different scenarios.
@@ -93,9 +92,9 @@ different scenarios.
 
 
 Доставка отличного кода на Python
---------------------------
+---------------------------------
 
-This part of the guide focuses on sharing and deploying your Python code.
+Эта часть руководства посвящена совместному использованию и развертыванию вашего кода на Python.
 
 .. toctree::
    :maxdepth: 2
@@ -121,10 +120,10 @@ background information about Python, and then focuses on next steps.
    intro/news
 
 .. note::
-   Примечания, определенные во всех диатонических и хроматических музыкальных 
-   гаммах, были намеренно исключены из этого списка дополнительных примечаний. 
+   Примечания, определенные во всех диатонических и хроматических музыкальных
+   гаммах, были намеренно исключены из этого списка дополнительных примечаний.
    Кроме этого примечания.
-   
+
 
 --------------------------------------
 

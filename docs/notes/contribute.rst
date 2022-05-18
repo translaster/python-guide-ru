@@ -1,31 +1,32 @@
-##########
-Contribute
-##########
+##############
+Сотрудничество
+##############
 
 .. image:: /_static/photos/33573769116_49c1ef51e7_k_d.jpg
 
-Python-guide is under active development, and contributors are welcome.
+Python-guide находится в стадии активной разработки, и мы приветствуем участников.
 
-If you have a feature request, suggestion, or bug report, please open a new
-issue on GitHub_. To submit patches, please send a pull request on GitHub_.
-Once your changes get merged back in, you'll automatically be added to the
-`Contributors List <https://github.com/kennethreitz/python-guide/contributors>`_.
+Если у вас есть запрос на функционал, предложение или сообщение об ошибке,
+пожалуйста, откройте новый issue на GitHub_. Чтобы отправить исправления,
+пожалуйста, отправьте запрос на pull request на GitHub_.
+Как только ваши изменения будут объединены, вы автоматически будете добавлены в
+список участников <https://github.com/kennethreitz/python-guide/contributors >`_.
 
-
-***********
-Style Guide
-***********
+********************
+Руководство по стилю
+********************
 
 For all contributions, please follow the :ref:`guide-style-guide`.
+Для получения всех материалов, пожалуйста, следуйте ссылке :ref:`guide-style-guide`.
 
 .. _todo-list-ref:
 
 
-*********
-Todo List
-*********
+************
+Список задач
+************
 
-If you'd like to contribute, there's plenty to do. Here's a short todo_ list.
+Если вы хотите внести свой вклад, вам есть чем заняться. Вот краткий список дел.
 
     .. include:: ../../TODO.rst
 
