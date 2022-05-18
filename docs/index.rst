@@ -8,26 +8,26 @@
 
 
 #################################
-The Hitchhiker's Guide to Python!
+Путеводитель автостопом по Python!
 #################################
 
-Greetings, Earthling! Welcome to The Hitchhiker's Guide to Python.
+Приветствую тебя, Землянин! Добро пожаловать в Руководство автостопом по Python.
 
-**This is a living, breathing guide.**  If you'd like to contribute,
-`fork us on GitHub <https://github.com/realpython/python-guide>`_!
+**Это живое, дышащее руководство.** Если вы хотите внести свой вклад,
+`форкните на нас на GitHub <https://github.com/realpython/python-guide>`_!
 
-This handcrafted guide exists to provide both novice and expert Python
-developers a best practice handbook for the installation, configuration, and
-usage of Python on a daily basis.
+Это руководство, созданное вручную, предназначено для того, чтобы предоставить 
+как начинающим, так и опытным разработчикам Python руководство по наилучшей 
+практике установки, настройки и ежедневного использования Python.
 
-This guide is **opinionated** in a way that is almost, but not quite, entirely
-*unlike* Python's official documentation. You won't find a list of every Python web framework
-available here. Rather, you'll find a nice concise list of highly recommended
-options.
+Это руководство **самоуверенно** таким образом, что почти, но не совсем,
+полностью *в отличие от* официальной документации Python. Вы не найдете список 
+всех веб-фреймворков Python доступно здесь. Скорее всего, вы найдете хороший 
+краткий список настоятельно рекомендуемых вариантов.
 
-.. note:: The use of **Python 3** is *highly* recommended over Python 2. Consider upgrading your applications and infrastructures if you find yourself *still* using Python 2 in production today. If you are using Python 3, congratulations — you are indeed a person of excellent taste.
-  —*Kenneth Reitz*
+.. note:: Использование **Python 3** настоятельно рекомендуется по сравнению с Python 2. Рассмотрите возможность обновления ваших приложений и инфраструктур, если вы обнаружите, что *все еще* используете Python 2 в продакшене сегодня. Если вы используете Python 3, поздравляю — вы действительно человек с отличным вкусом.
+  —*Кеннет Рейц*
 
-Let's get started! But first, let's make sure you know where your towel is.
+Давайте начнем! Но сначала давайте убедимся, что вы знаете, где находится ваше полотенце.
 
 .. include:: contents.rst.inc
