@@ -1,7 +1,8 @@
-Getting Started with Python
+Начало работы с Python
 ---------------------------
 
-New to Python? Let's properly setup up your Python environment:
+Новичок в Python? Давай правильно настроим вашу среду Python:
+  
 
 .. toctree::
    :maxdepth: 2
@@ -29,8 +30,7 @@ New to Python? Let's properly setup up your Python environment:
 
     dev/virtualenvs
 
-
-Python Development Environments
+Среды разработки на Python
 -------------------------------
 
 This part of the guide focuses on the Python development environment,
@@ -45,8 +45,7 @@ and the best-practice tools that are available for writing Python code.
 
 
 
-
-Writing Great Python Code
+Написание отличного кода на Python
 -------------------------
 
 This part of the guide focuses on the best-practices for writing Python code.
@@ -64,8 +63,7 @@ This part of the guide focuses on the best-practices for writing Python code.
    writing/license
 
 
-
-Scenario Guide for Python Applications
+Руководство по сценариям для приложений на Python
 --------------------------------------
 
 This part of the guide focuses on tool and module advice based on
@@ -94,7 +92,7 @@ different scenarios.
    scenarios/clibs
 
 
-Shipping Great Python Code
+Доставка отличного кода на Python
 --------------------------
 
 This part of the guide focuses on sharing and deploying your Python code.
@@ -107,7 +105,7 @@ This part of the guide focuses on sharing and deploying your Python code.
    shipping/freezing
 
 
-Additional Notes
+Дополнительные примечания
 ----------------
 
 This part of the guide, which is mostly prose, begins with some
