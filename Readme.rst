@@ -1,24 +1,23 @@
-Hitchhiker's Guide to Python
+Путеводитель автостопом по Python
+
 ============================
 
-**Python Best Practices Guidebook**
+**Руководство по лучшим практикам Python**
 
-→ Read the free guide at: `docs.python-guide.org <https://docs.python-guide.org>`_
+→ Ознакомьтесь с бесплатным руководством по адресу: `docs.python-guide.org <https://docs.python-guide.org>`_
 
 .. image:: https://farm1.staticflickr.com/628/33173824932_58add34581_k_d.jpg
 
 -----------
 
-**Work in progress. If you'd like to help, please do. There's a lot of work to
-be done.**
+**Незавершенная работа. Если вы хотите помочь, пожалуйста, помогите. Предстоит проделать еще много работы.**
 
-This guide is currently under heavy development. This opinionated guide
-exists to provide both novice and expert Python developers a best practice
-handbook to the installation, configuration, and usage of Python on a daily
-basis.
+Это руководство в настоящее время находится в стадии интенсивной разработки. 
+Это самоуверенное руководство предназначено для того, чтобы предоставить как 
+начинающим, так и опытным разработчикам Python руководство по наилучшей 
+практике установки, настройки и ежедневного использования Python.
 
-
-Topics include:
+Темы включают в себя:
 
 - Platform and version-specific installations
 - Py2app, Py2exe, bbfreeze, pyInstaller
